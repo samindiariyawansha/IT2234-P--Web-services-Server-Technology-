@@ -1,1 +1,6 @@
-# IT2234-P--Web-services-Server-Technology-
+# IT2234-P--Web-services-Server-Technology-![qu 4](https://github.com/user-attachments/assets/fcacba61-5d33-4af0-99bf-a3e191e1adae)
+![qu 3](https://github.com/user-attachments/assets/18748a47-c949-4fe2-b9c1-ac269812ff48)
+![qu 2](https://github.com/user-attachments/assets/739195e3-e197-4b90-b403-4d423e5f2f2b)
+![qu 1](https://github.com/user-attachments/assets/b366c944-5b34-4157-b762-2227e29e4d0c)
+![Prinnt_Message](https://github.com/user-attachments/assets/8dfad5f8-fc80-4e94-86e4-300f1cb46713)
+![arithmetic](https://github.com/user-attachments/assets/3fb4d1aa-ff9a-469a-8020-96fb8d9bef35)
