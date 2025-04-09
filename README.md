@@ -1,6 +1,6 @@
-# IT2234-P--Web-services-Server-Technology-![Screenshot (15)](https://github.com/user-attachments/assets/493a9c15-6069-49ba-9390-1ef7dc3038a5)
-![Screenshot (19)](https://github.com/user-attachments/assets/34051ae8-d007-4c62-8b54-6ed15234865f)
-![Screenshot (18)](https://github.com/user-attachments/assets/05e48ea1-2b93-46e7-99d8-80dcf578ab33)
-![Screenshot (17)](https://github.com/user-attachments/assets/370fc995-64ab-409a-9b8f-b35af317c907)
-![Screenshot (16)](https://github.com/user-attachments/assets/d16d6ffe-5f91-4938-bba4-7e304dd617bb)
-![Screenshot (20)](https://github.com/user-attachments/assets/d24975f7-a219-4389-b094-81df36cfe24b)
+# IT2234-P--Web-services-Server-Technology-
+![Screenshot (41)](https://github.com/user-attachments/assets/8b6f6d7b-1dbf-4fbb-b3e6-193cb0a2ab9e)
+![Screenshot (40)](https://github.com/user-attachments/assets/ba040bde-f40e-45d8-869a-86116ee04b6f)
+![Screenshot (45)](https://github.com/user-attachments/assets/e5ff7fcc-6508-495b-9d6f-872728e1a3ca)
+![Screenshot (44)](https://github.com/user-attachments/assets/60febc44-b4d8-42c4-848b-6d23e9c4e664)
+![Screenshot (42)](https://github.com/user-attachments/assets/c6e84365-1c60-4d00-8d3c-a8fdd8d98c4a)
