@@ -106,8 +106,21 @@ Shell response.
 Inserted Documents
 
 
+![Screenshot 2025-05-10 232439](https://github.com/user-attachments/assets/e5ffea6c-4012-4759-9d1f-0f4a5854627c)
+
+🛠️ Update Documents Using MongoDB Shell
+Update one document - updateOne()
+
+![7](https://github.com/user-attachments/assets/1f59e4c4-0ef0-42a4-aba9-b44e3ed06325)
+
+Updated Documents.
 
 
+![8](https://github.com/user-attachments/assets/e621ba4a-094d-4410-a01f-0d666b077963)
+
+
+Update document - updateMany()
+![9](https://github.com/user-attachments/assets/c1316491-8e9d-4dd2-bb55-dca620323bc8)
 
 
 
