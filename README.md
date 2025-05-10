@@ -125,3 +125,99 @@ Update document - updateMany()
 
 
 
+🧹 Delete Documents Using MongoDB Shell
+
+ db.students.deleteOne({ regno: "2021IT006" })
+ db.students.deleteMany({ degree: "IT" })
+
+
+🧠 Query Operators
+find()
+project
+sort
+$gt -> greater than
+$lt -> less than
+$eq -> equal
+$ne -> not equal
+$in -> matches any in array
+$nin -> doesn't matches any in array
+
+
+🔍 Find Data Using Compass
+
+
+![10](https://github.com/user-attachments/assets/a0c5d489-9fea-40d3-8fc7-803ac812d7ac)
+
+
+🔍 Find Data Using MongoDB Shell
+
+Shell response.
+
+{
+  _id: ObjectId('680a45ccbbeaa62de141d812'),
+  regno: '2021IT002',
+  name: 'Jane',
+  age: 23,
+  gender: 'Female',
+  degree: 'CS',
+  skills: [
+    'Mysql',
+    'JS',
+    'Nodejs'
+  ]
+}
+{
+  _id: ObjectId('680a4605bbeaa62de141d813'),
+  regno: '2021IT003',
+  name: 'Ken',
+  age: 21,
+  gender: 'Female',
+  degree: 'CS',
+  skills: [
+    'Mysql',
+    'JS',
+    'Nodejs',
+    'Java'
+  ]
+}
+{
+  _id: ObjectId('680a463abbeaa62de141d814'),
+  regno: '2021IT004',
+  name: 'Anne',
+  age: 24,
+  gender: 'Female',
+  degree: 'IT',
+  skills: [
+    'MongoDb',
+    'JS',
+    'Nodejs'
+  ]
+}
+{
+  _id: ObjectId('680a4679bbeaa62de141d815'),
+  regno: '2021IT005',
+  name: 'Heily',
+  age: 23,
+  gender: 'Female',
+  degree: 'IT',
+  skills: [
+    'MongoDb',
+    'JS',
+    'Java',
+    'Nodejs'
+  ]
+}
+{
+  _id: ObjectId('680a513770bc7e6dddbd41d5'),
+  regno: '2021IT008',
+  name: 'Kate',
+  age: 24,
+  gender: 'Female',
+  degree: 'IT',
+  skills: [
+    'JS',
+    'MongoDb',
+    'Nodejs'
+  ]
+}
+
