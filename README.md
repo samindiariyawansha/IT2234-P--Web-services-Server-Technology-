@@ -64,6 +64,47 @@ Inserted Documents.
 
 ![6](https://github.com/user-attachments/assets/e741ca97-5e5b-4a64-8fe9-cdd7dd3e6e7a)
 
+Enter multiple documents - insertMany()
+
+  db.students.insertMany(
+[
+{
+  "regno": "2021IT007",
+  "name": "Kevin",
+  "age": 25,
+  "gender": "Male",
+  "degree": "IT",
+  "skills": [
+    "JS",
+    "MongoDb",
+    "MySQL"
+  ]
+},
+{
+  "regno": "2021IT008",
+  "name": "Kate",
+  "age": 24,
+  "gender": "Female",
+  "degree": "IT",
+  "skills": [
+    "JS",
+    "MongoDb",
+    "Nodejs"
+  ]
+}
+]
+)
+Shell response.
+  {
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('680a513770bc7e6dddbd41d4'),
+    '1': ObjectId('680a513770bc7e6dddbd41d5')
+  }
+}
+
+Inserted Documents
+
 
 
 
